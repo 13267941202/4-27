@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+    {% include "common/header.html" %}
+    {% include "common/footer.html" %}
+    {% set name = "xiao" %}
+    <p>{{ name }}</p>
+    <hr>
+    {% with name = "xie" %}
+        <p>{{ name }}</p>
+    {% endwith %}
+</body>
+</html>

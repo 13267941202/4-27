@@ -1,0 +1,35 @@
+
+{% import "macro.html" as macro with context %}
+{% from "macro.html" import input %}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    {{ macro.input("username") }}
+    {{ input("password", type="password") }}
+    <hr>
+    {{ macro.input("username", value) }}
+    <hr>
+    {% for book in books %}
+        <p>{{book}}这是for数组循环</p>
+    {% endfor %}
+
+
+    <hr>
+    {% for key,value in users.items() %}
+        <p>{{loop.first}}判断是否是第一个循环</p>
+        <p>{{loop.last}}</p>
+        <p>{{loop.index}}.{{value}}这是for对象循环</p>
+    {% endfor %}
+    <hr>
+    {% if username=="xiaoxie" %}
+        <p>{{username}}</p>
+    {% else %}
+        <p>这个用户不是{{username}}</p>
+    {% endif %}
+
+</body>
+</html>

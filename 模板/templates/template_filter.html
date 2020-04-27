@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <p>{{username}}</p>
+    <p>{{username|upper}}转换成大写</p>
+    <p>{{EnglishName|lower}}转换成小写</p>
+    <p>{{age|abs}}绝对值</p>
+    <p>{{username|length}}求长度</p>
+    <p>{{name|default("这个人很懒，什么都没有写!")}}默认值</p>
+    <p>{{books|first}}数组的第一个</p>
+    <p>{{books|last}}数组的最后一个</p>
+    <p>{{age|float}}转成浮点数</p>
+    <p>{{ dic|replace("hello", "nihao")}}代替字符串</p>
+<!--    <p>{{ es|safe }}设置为安全，如果不设置会自动帮我们转义</p>-->
+<!--    {% autoescape off %}-->
+<!--        <p>{{es}}只有在这里面才会关闭转义</p>-->
+<!--    {% endautoescape %}-->
+    <p>{{ brackets|striptags }}</p>
+    <p>{{ "%s"|format("你好") }}format格式化字符串</p>
+    <p>{{ dic|wordcount }}获取字符串的个数,以空格作为分割</p>
+    <p>{{dic|join("d")}}拼接字符串，每一个字母后面都加d </p>
+    <p>{{username|truncate(length=4)}}长度最少不能低于3，因为有3个省略号也占三个</p>
+    <p>{{username|mycut}}</p>
+    <p>文章发表时间：{{time|headle_time}}</p>
+</body>
+</html>

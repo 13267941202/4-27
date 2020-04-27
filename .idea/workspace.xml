@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6e6dcaea-24c4-451a-9ea6-e47f2cbc1317" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flask数据库/外键使用/relasionship_demo.py" beforeDir="false" afterPath="$PROJECT_DIR$/flask数据库/外键使用/relasionship_demo.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1a3l5bUNsUY9H1NbI8nfMkDYyTi" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\flask项目\类视图\蓝图\blueprints" />
+      <recent name="D:\flask项目\类视图" />
+      <recent name="D:\flask项目\模板\案例\templates" />
+      <recent name="D:\flask项目\模板\案例\static" />
+      <recent name="D:\flask项目\模板\模板继承\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.relasionship_demo">
+    <configuration name="ORM_curd" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask项目" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask数据库/SQLAlchemy基本使用" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask数据库/SQLAlchemy基本使用/ORM_curd.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="foreight_key" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask项目" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask数据库/外键使用" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask数据库/外键使用/foreight_key.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="relasionship_demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask项目" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask数据库/外键使用" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask数据库/外键使用/relasionship_demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sqlalchemy_filter" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask项目" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask数据库/SQLAlchemy基本使用" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask数据库/SQLAlchemy基本使用/sqlalchemy_filter.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sqlalchemy_type" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flask项目" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/flask数据库/SQLAlchemy基本使用" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/flask数据库/SQLAlchemy基本使用/sqlalchemy_type.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.relasionship_demo" />
+        <item itemvalue="Python.foreight_key" />
+        <item itemvalue="Python.sqlalchemy_filter" />
+        <item itemvalue="Python.ORM_curd" />
+        <item itemvalue="Python.sqlalchemy_type" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6e6dcaea-24c4-451a-9ea6-e47f2cbc1317" name="Default Changelist" comment="" />
+      <created>1585971975915</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585971975915</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="197" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1585975807151">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="466" y="197" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1585975807151" />
+    <state x="499" y="110" key="FileChooserDialogImpl" timestamp="1587187517206">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="499" y="110" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1587187517206" />
+    <state width="1510" height="198" key="GridCell.Tab.0.bottom" timestamp="1587913942756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1510" height="198" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587913942756" />
+    <state width="1510" height="198" key="GridCell.Tab.0.center" timestamp="1587913942756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1510" height="198" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1587913942756" />
+    <state width="1510" height="198" key="GridCell.Tab.0.left" timestamp="1587913942756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1510" height="198" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1587913942756" />
+    <state width="1510" height="198" key="GridCell.Tab.0.right" timestamp="1587913942756">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1510" height="198" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1587913942756" />
+    <state width="1510" height="247" key="GridCell.Tab.1.bottom" timestamp="1587790016543">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1510" height="247" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1587790016543" />
+    <state width="1510" height="247" key="GridCell.Tab.1.center" timestamp="1587790016542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1510" height="247" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1587790016542" />
+    <state width="1510" height="247" key="GridCell.Tab.1.left" timestamp="1587790016542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1510" height="247" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1587790016542" />
+    <state width="1510" height="247" key="GridCell.Tab.1.right" timestamp="1587790016542">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1510" height="247" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1587790016542" />
+    <state x="146" y="0" key="SettingsEditor" timestamp="1587187660032">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="146" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1587187660032" />
+    <state x="384" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1587945768771">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="384" y="195" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1587945768771" />
+    <state x="292" y="29" width="951" height="766" key="find.popup" timestamp="1586934288079">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="292" y="29" width="951" height="766" key="find.popup/0.0.1536.824@0.0.1536.824" timestamp="1586934288079" />
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1587080084958">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="347" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1587080084958" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/模板/template_filter.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Python/Lib/datetime.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
